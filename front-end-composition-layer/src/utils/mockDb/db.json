@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "0",
+      "name": "Location 011 q",
+      "reportField": "zz eeee wwww"
+    },
+    {
+      "id": "1",
+      "name": "Location 11",
+      "reportField": "zz wqeqwe"
+    },
+    {
+      "id": "2",
+      "name": "Location 2",
+      "reportField": "2"
+    },
+    {
+      "id": "3",
+      "name": "Location 3",
+      "reportField": "3"
+    },
+    {
+      "id": "4",
+      "name": "Location 4",
+      "reportField": "4"
+    },
+    {
+      "id": "5",
+      "name": "Location 5",
+      "reportField": "5"
+    }
+  ]
+}

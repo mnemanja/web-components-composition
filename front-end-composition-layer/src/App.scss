@@ -1,0 +1,19 @@
+body {
+  background-color: #eeeeee;
+}
+.App {
+}
+
+.App-intro {
+  font-size: large;
+}
+
+section {
+  padding: 20px;
+  display: flex;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}

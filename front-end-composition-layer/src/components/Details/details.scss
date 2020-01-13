@@ -1,0 +1,11 @@
+.details-container {
+  width: 70%;
+  border: 1px solid #ccc;
+  padding: 0 20px 20px;
+  margin-left: 10px;
+  background-color: #fff;
+
+  &.empty-container {
+    padding: 20px;
+  }
+}
