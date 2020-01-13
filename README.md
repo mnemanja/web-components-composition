@@ -1,4 +1,4 @@
-# web-components-composition
+# Web components composition
 An example on how to share a library between the composition layer and the web components
 
 Status - draft
